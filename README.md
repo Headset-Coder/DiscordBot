@@ -1,2 +1,3 @@
-# DiscordBot
-my discord bot i use in my server.
+# Discord bot
+
+## just the code
